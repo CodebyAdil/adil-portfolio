@@ -34,7 +34,7 @@ export const heroContent = {
 };
 
 export const aboutContent = {
-  bio: `BS Information Technology graduate (PUCIT — University of the Punjab, Lahore, CGPA 3.34/4.0), MERN stack developer with a growing specialization in AI engineering. I take end-to-end ownership of products — from architecture and backend logic to AI integration and deployment — rather than working on isolated features. I\u2019m stack-agnostic by principle: I choose tools based on what a problem actually needs, not what\u2019s familiar, and I treat learning new stacks/APIs as a core part of the job, not a blocker. Currently focused on building production-grade full-stack applications with integrated AI features, with a growth mindset toward mastering the full DevOps → MLOps → LLMOps pipeline for shipping AI products that hold up in production.`,
+  bio: `Full-stack developer who ships. Built and deployed DevHire, an AI-powered recruitment platform that cuts resume screening time by ~75% — from architecture to AI integration, solo. MERN background, now specializing in AI engineering. I pick the right tool for the problem, not the one I already know, and I learn fast when the job demands it.`,
   highlights: [
     'End-to-end product ownership',
     'Stack-agnostic by principle',
@@ -67,6 +67,7 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       'Node.js',
       'Express.js',
+      'FastAPI',
       'REST API Design',
       'JWT Authentication',
       'Role-Based Access Control (RBAC)',
@@ -75,7 +76,7 @@ export const skillCategories: SkillCategory[] = [
   {
     title: 'Database',
     icon: Database,
-    skills: ['MongoDB', 'Mongoose (Schema Design)'],
+    skills: ['MongoDB', 'Mongoose (Schema Design)', 'SQL', 'MySQL', 'PostgreSQL'],
   },
   {
     title: 'AI / Integration',
@@ -102,9 +103,9 @@ export const skillCategories: SkillCategory[] = [
     title: 'Working Style',
     icon: Users,
     skills: [
-      'End-to-end ownership (design → build → deploy)',
-      'Problem-first / stack-agnostic approach',
-      'Fast self-directed learning of new tools & APIs',
+      'End-to-end ownership',
+      'Design → Build → Deploy',
+      'Problem-first, stack-agnostic',
       'Collaborative team experience',
     ],
   },
@@ -123,7 +124,7 @@ export const experiences: ExperienceEntry[] = [
   {
     role: 'Creator & Full-Stack Developer',
     company: 'DevHire — AI-Assisted Recruitment Platform',
-    period: '2024 — Present',
+    period: '2026 — Present',
     liveUrl: 'https://devhire-sooty.vercel.app/login',
     description:
       'The problem: Recruiters manually screening large batches of resumes lose hours to repetitive reading and inconsistent judgment calls, slowing down hiring and letting strong candidates fall through the cracks.\n\nThe solution: DevHire lets recruiters bulk-upload resumes for a job posting, then uses AI (Claude API) to parse, screen, and rank candidates against the role — cutting manual screening time and improving shortlisting efficiency by approximately 75% in testing.',
@@ -137,7 +138,7 @@ export const experiences: ExperienceEntry[] = [
   {
     role: 'Full-Stack Developer (MERN) — Fellow',
     company: 'Bytewise Limited — Remote Fellowship',
-    period: '2024',
+    period: '2025',
     description:
       'Completed a remote fellowship focused on hands-on MERN stack development, working through structured, mentor-guided curriculum and practical coding assignments. Strengthened foundational and applied skills in REST API design and system understanding.',
     highlights: [
@@ -209,7 +210,7 @@ export const education = {
   degree: 'BS Information Technology',
   institution: 'PUCIT — University of the Punjab, Lahore',
   cgpa: '3.34 / 4.0',
-  period: '2020 — 2024',
+  period: '2020 — 2025',
 };
 
 export type ValueItem = {
