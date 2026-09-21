@@ -2,7 +2,7 @@
 
 Full-Stack Developer building AI-integrated web applications. This is my personal portfolio site, showcasing my projects, skills, and experience.
 
-🔗 **Live Site:** [Deployed portfolio link here]
+🔗 **Live Site:** [https://adil-portfolio-fawn.vercel.app/]
 
 ---
 
