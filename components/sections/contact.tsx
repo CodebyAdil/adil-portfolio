@@ -25,7 +25,7 @@ export function Contact() {
         <SectionHeading
           index="07"
           title="Contact"
-          subtitle="Let\u2019s build something together"
+          subtitle="Let's build something together"
         />
 
         <div className="mt-10 grid gap-6 md:grid-cols-2">
