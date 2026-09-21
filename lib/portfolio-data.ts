@@ -19,7 +19,7 @@ export const personalInfo = {
   phone: '+92 306 6553738',
   github: 'https://github.com/CodebyAdil',
   githubHandle: 'CodebyAdil',
-  linkedin: 'https://linkedin.com/in/adil-fullstack',
+  linkedin: 'https://www.linkedin.com/in/adilusman/',
   linkedinHandle: 'adil-fullstack',
   availability: 'Open to: Full-time / Freelance',
   resumeUrl: '#',
