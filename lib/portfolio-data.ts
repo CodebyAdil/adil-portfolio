@@ -188,6 +188,7 @@ export const projects: Project[] = [
     liveUrl: '#',
     status: 'in-progress',
   },
+  /*
   {
     title: 'Add Project',
     description: 'This card is ready for your next project — just update the data file.',
@@ -204,6 +205,7 @@ export const projects: Project[] = [
     liveUrl: '#',
     status: 'placeholder',
   },
+  */
 ];
 
 export const education = {
